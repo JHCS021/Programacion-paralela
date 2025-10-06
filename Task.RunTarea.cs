@@ -6,7 +6,7 @@ namespace ProgramacionParalela
 {
     public class TaskRunTarea
     {
-        public static async Task Main()
+        public static async Task Run()
         {
             const int N = 1_000_000;
             Console.WriteLine("=== Task.RunTarea: Paralelo con Task.Run ===\n");

@@ -7,7 +7,7 @@ namespace ProgramacionParalela
 {
     public class TaskFactoryStartNewTarea
     {
-        public static async Task Main()
+        public static async Task Run()
         {
             const int N = 500_000;
             Console.WriteLine("=== Task.Factory.StartNewTarea ===\n");

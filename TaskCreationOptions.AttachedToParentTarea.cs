@@ -6,7 +6,7 @@ namespace ProgramacionParalela
 {
     public class TaskCreationOptionsAttachedToParentTarea
     {
-        public static async Task Main()
+        public static async Task Run()
         {
             Console.WriteLine("=== TaskCreationOptions.AttachedToParentTarea ===\n");
 
@@ -35,7 +35,7 @@ namespace ProgramacionParalela
                     Console.WriteLine("  [HijaNoAttach] Termina");
                 });
 
-                Console.WriteLine("[Padre] Fin método padre (esperará hijas attach).");
+                Console.WriteLine("[Padre] Fin mÃ©todo padre (esperarÃ¡ hijas attach).");
             });
 
             await parent;

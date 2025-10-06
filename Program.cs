@@ -17,7 +17,7 @@ namespace ProgramacionParalela
                 { "continue", () => WrapVoid(TaskContinueWithOnlyOnRanToCompletionTarea.Run) }
             };
 
-            string choice = args.Length > 0 ? args[0] : null;
+            string? choice = args.Length > 0 ? args[0] : null;
 
             while (true)
             {
