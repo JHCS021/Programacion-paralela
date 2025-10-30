@@ -1,0 +1,15 @@
+/home/user/Programacion-paralela/bin/Debug/net6.0/Programacion-paralela
+/home/user/Programacion-paralela/bin/Debug/net6.0/Programacion-paralela.deps.json
+/home/user/Programacion-paralela/bin/Debug/net6.0/Programacion-paralela.runtimeconfig.json
+/home/user/Programacion-paralela/bin/Debug/net6.0/Programacion-paralela.dll
+/home/user/Programacion-paralela/bin/Debug/net6.0/Programacion-paralela.pdb
+/home/user/Programacion-paralela/obj/Debug/net6.0/Programacion-paralela.csproj.AssemblyReference.cache
+/home/user/Programacion-paralela/obj/Debug/net6.0/Programacion-paralela.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Programacion-paralela/obj/Debug/net6.0/Programacion-paralela.AssemblyInfoInputs.cache
+/home/user/Programacion-paralela/obj/Debug/net6.0/Programacion-paralela.AssemblyInfo.cs
+/home/user/Programacion-paralela/obj/Debug/net6.0/Programacion-paralela.csproj.CoreCompileInputs.cache
+/home/user/Programacion-paralela/obj/Debug/net6.0/Programacion-paralela.dll
+/home/user/Programacion-paralela/obj/Debug/net6.0/refint/Programacion-paralela.dll
+/home/user/Programacion-paralela/obj/Debug/net6.0/Programacion-paralela.pdb
+/home/user/Programacion-paralela/obj/Debug/net6.0/Programacion-paralela.genruntimeconfig.cache
+/home/user/Programacion-paralela/obj/Debug/net6.0/ref/Programacion-paralela.dll
